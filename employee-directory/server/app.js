@@ -2,7 +2,6 @@ var express = require("express");
 const cors = require("cors");
 var bodyParser = require("body-parser");
 let MongoClient = require("mongodb").MongoClient;
-const e = require("express");
 var ObjectId = require("mongodb").ObjectId;
 
 var url =
@@ -47,7 +46,7 @@ app.post("/addRecord", function (req, res) {
               state: req.body.state,
               zip: req.body.zip,
               country: req.body.country,
-              src: req.body.src
+              src: req.body.src,
             },
             function (err, result) {
               if (err) throw err;
@@ -78,7 +77,7 @@ app.post("/editRecord", function (req, res) {
         state: req.body.state,
         zip: req.body.zip,
         country: req.body.country,
-        src: req.body.src
+        src: req.body.src,
       },
     };
     dbo
@@ -127,8 +126,6 @@ app.post("/getAllData", function (req, res) {
       });
   });
 });
-
-//mongodb+srv://user:if4zEWLcMZsqnKY@employeedb.qwpku.mongodb.net/EmployeeDB?retryWrites=true&w=majority
 
 app.listen(PORT, function (err) {
   if (err) console.log(err);

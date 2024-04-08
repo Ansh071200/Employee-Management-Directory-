@@ -19,7 +19,7 @@ const Main = () => {
       fullData = newData.result;
       setData(newData.result);
     }
-
+    
     getData();
   }, []);
 
