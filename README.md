@@ -1,13 +1,3 @@
-## Screenshots of the Web Page
-![Screenshot (210)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/738c7f67-057c-4e4d-853c-15796f97a7b6)
-![Screenshot (209)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/b2c99fb6-9ef6-4c69-8759-4f73450c735c)
-![Screenshot (208)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/72c73e26-cd34-4d57-ae59-6c5b43a420c0)
-![Screenshot (207)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/b1b05644-b558-4a7e-8f86-e1f75ce5f6c0)
-![Screenshot (206)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/7406680c-bf63-432a-accd-daf3aa076162)
-![Screenshot (205)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/730ea164-191a-4540-b1a1-511d4f50efd7)
-![Screenshot (204)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/d507a2c4-93af-478e-a214-bd39f18a8cfc)
-![Screenshot (203)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/a63f5d82-075c-4c10-86c4-93d49f13fd60)
-![Screenshot (202)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/ccabae64-1748-4129-bf28-f4836020bb71)
 # Employee Management Directory
 
 This Employee Directory allows admins to view, edit and add details of the employess for a company.
@@ -52,3 +42,14 @@ The following are the external dependencies required to run the app.
    `> npm start`
 3. In the server folder; to start the Node Server, run
    `> nodemon app`
+   
+## Screenshots of the Web Page
+![Screenshot (210)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/738c7f67-057c-4e4d-853c-15796f97a7b6)
+![Screenshot (209)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/b2c99fb6-9ef6-4c69-8759-4f73450c735c)
+![Screenshot (208)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/72c73e26-cd34-4d57-ae59-6c5b43a420c0)
+![Screenshot (207)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/b1b05644-b558-4a7e-8f86-e1f75ce5f6c0)
+![Screenshot (206)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/7406680c-bf63-432a-accd-daf3aa076162)
+![Screenshot (205)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/730ea164-191a-4540-b1a1-511d4f50efd7)
+![Screenshot (204)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/d507a2c4-93af-478e-a214-bd39f18a8cfc)
+![Screenshot (203)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/a63f5d82-075c-4c10-86c4-93d49f13fd60)
+![Screenshot (202)](https://github.com/Ansh071200/Employee-Management-Directory-/assets/103409932/ccabae64-1748-4129-bf28-f4836020bb71)
